@@ -1,0 +1,3 @@
+# functional-programing-wordbook
+
+ Catamorphism - 
