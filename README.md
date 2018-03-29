@@ -1,4 +1,4 @@
 # functional-programing-wordbook
 
-Catamorphism - 
-Recursive types -
+Catamorphism - __
+Recursive types - __
