@@ -3,6 +3,7 @@
 Catamorphism - </br>
 Recursive types - </br>
 Function composition - </br>
+Enhancers - </br>
 Fixed-arity function </br>
 Composable functions - </br>
 Pure functions - </br>
@@ -19,6 +20,7 @@ Composition - </br>
 Unary function - </br>
 Utility function - </br> 
 Transducer - </br>
+
 
 # common functions
 
