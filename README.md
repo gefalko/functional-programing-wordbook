@@ -26,6 +26,26 @@ Tacit - </br>
 multi-parameter functions - </br>
 single-parameter functions - </br>
 Hindley-Milner type signatures - </br>
+Reactive Extensions - </br>
+value projection - </br>
+value filtering - </br>
+
+# general
+
+
+
+# multithreading
+
+race conditions
+
+# programing styles/paradigsm
+
+ asynchronous programming - </br>
+ 
+# code quality
+
+self-descriptive </br>
+durable code </br>
 
 # common functions
 
@@ -34,3 +54,7 @@ fork - </br>
 Identity - </br>
 Maybe - </br>
 Either - </br>
+concatAll - </brr>
+reduce - </br>
+zip - </br>
+
