@@ -20,9 +20,13 @@ Composition - </br>
 Unary function - </br>
 Utility function - </br> 
 Transducer - </br>
+Fail-fast error handling - </br>
 
 
 # common functions
 
 lift - </br>
 fork - </br>
+Identity - </br>
+Maybe - </br>
+Either - </br>
