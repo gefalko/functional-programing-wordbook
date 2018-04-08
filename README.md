@@ -21,7 +21,11 @@ Unary function - </br>
 Utility function - </br> 
 Transducer - </br>
 Fail-fast error handling - </br>
-
+Pointfree - </br>
+Tacit - </br>
+multi-parameter functions - </br>
+single-parameter functions - </br>
+Hindley-Milner type signatures - </br>
 
 # common functions
 
