@@ -46,6 +46,7 @@ race conditions
 # programing styles/paradigsm
 
  asynchronous programming - </br>
+ reactive programming - </br>
  
 # code quality
 
