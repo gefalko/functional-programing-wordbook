@@ -64,3 +64,11 @@ concatAll - </brr>
 reduce - </br>
 zip - </br>
 
+# Typings
+
+method name - </br>
+type constraints - </br>
+method target type - </br>
+argument types - </br>
+return type - </br>
+
